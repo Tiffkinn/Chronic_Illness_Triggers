@@ -2,8 +2,9 @@
 Exploring how weather impacts user-reported symptoms from the Flaredown app. Weather is recorded automatically at the time of reporting,
 so geographical location and weather condition factors can be examined in addition to self-reported triggers.
 
-Chronic Condition Data: https://www.kaggle.com/datasets/flaredown/flaredown-autoimmune-symptom-tracker
-See Tableau Story Here: https://public.tableau.com/shared/Y3Q355QZX?:display_count=n&:origin=viz_share_link
+**Chronic Condition Data:** https://www.kaggle.com/datasets/flaredown/flaredown-autoimmune-symptom-tracker
+
+**See Tableau Story Here:** https://public.tableau.com/shared/Y3Q355QZX?:display_count=n&:origin=viz_share_link
 
 **Possible Questions**
 • Are there subsets of condition types and effects that are differently affected by weather and time?
