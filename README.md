@@ -1,4 +1,4 @@
-# Chronic_Illness_Triggers
+# Seasonality and Weather Impacts on Health Conditions
 Exploring how weather impacts user-reported symptoms from the Flaredown app. Weather is recorded automatically at the time of reporting,
 so geographical location and weather condition factors can be examined in addition to self reported triggers.
 
