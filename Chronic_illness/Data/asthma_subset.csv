@@ -1,0 +1,91 @@
+,user_id,age,sex,country,checkin_date,trackable_id,trackable_type,trackable_name,trackable_value,has_arthritis,pain_count,symptom,condition,weather,severity,Age,precipitation,humidity,min_temp,max_temp,pressure,temp_change,month,year
+12422,40088,24,female,US,2015-05-29,80,Condition,Asthma,1,0,1,Headache,Asthma,,1.0,24,,,,,,,5,2015
+14072,6349,44,female,IE,2015-07-21,80,Condition,Asthma,1,0,1,Wheezing,Asthma,,1.0,44,,,,,,,7,2015
+15825,20144,0,,,2015-05-26,80,Condition,Asthma,0,0,1,Depression,Asthma,,0.0,34,,,,,,,5,2015
+15966,20144,0,,,2015-05-25,80,Condition,Asthma,0,0,1,Dull,Asthma,,0.0,34,,,,,,,5,2015
+16257,10875,29,female,US,2015-05-25,80,Condition,Asthma,0,0,1,Brain fog,Asthma,,0.0,29,,,,,,,5,2015
+35308,21568,0,,,2015-06-09,80,Condition,Asthma,1,0,1,Body aching,Asthma,,1.0,34,,,,,,,6,2015
+36028,21568,0,,,2015-05-25,80,Condition,Asthma,1,0,2,Joint pain,Asthma,,11.0,34,,,,,,,5,2015
+45741,6035,45,female,US,2018-01-15,80,Condition,Asthma,1,1,1,Nose sores,Asthma,,1.0,45,0.0014,76.0,39.0,68.0,1025.0,29.0,1,2018
+48582,6035,45,female,US,2018-01-16,80,Condition,Asthma,1,1,2,Abdominal pain,Asthma,,11.0,45,0.0056,58.0,26.0,48.0,1038.0,22.0,1,2018
+52291,6035,45,female,US,2018-01-17,80,Condition,Asthma,1,1,1,Skin sensitivity,Asthma,,1.0,45,0.0001,42.0,25.0,36.0,1039.0,11.0,1,2018
+55857,6035,45,female,US,2018-01-18,80,Condition,Asthma,2,1,1,erratic heartrate,Asthma,,2.0,45,0.0,41.0,33.0,45.0,1032.0,12.0,1,2018
+65547,6035,45,female,US,2018-01-26,80,Condition,Asthma,1,1,1,vaginal lumps,Asthma,,1.0,45,0.0037,89.0,52.0,63.0,1022.0,11.0,1,2018
+69619,6035,45,female,US,2018-05-30,80,Condition,Asthma,0,1,2,Chest pain,Asthma,,0.0,45,0.0002,64.0,73.0,96.0,1007.0,23.0,5,2018
+92046,9994,0,,,2015-05-29,80,Condition,Asthma,0,0,1,Anxiety,Asthma,,0.0,34,,,,,,,5,2015
+94082,9994,0,,,2015-06-06,80,Condition,Asthma,0,0,1,,Asthma,,0.0,34,,,,,,,6,2015
+119319,8483,32,male,CH,2015-07-17,80,Condition,Asthma,2,0,2,Back pain,Asthma,,22.0,32,,,,,,,7,2015
+145895,32742,0,,,2015-05-27,80,Condition,Asthma,1,0,2,Stomach Pain,Asthma,,11.0,34,,,,,,,5,2015
+149066,34192,0,,,2015-11-06,80,Condition,Asthma,2,0,0,itching face,Asthma,,0.0,34,,,,,,,11,2015
+157954,40160,28,female,US,2015-05-29,80,Condition,Asthma,0,0,1,Shortness of breath,Asthma,,0.0,28,,,,,,,5,2015
+160519,30430,41,other,GB,2015-05-27,80,Condition,Asthma,1,0,1,Fatigue,Asthma,,1.0,41,,,,,,,5,2015
+167038,27063,38,female,GB,2017-05-21,80,Condition,Asthma,1,0,1,impaired cognition,Asthma,,1.0,38,,,,,,,5,2017
+231273,26569,49,female,DE,2015-06-17,80,Condition,Asthma,1,0,1,cataplexy,Asthma,,1.0,49,,,,,,,6,2015
+275529,21666,40,female,US,2015-05-26,80,Condition,Asthma,1,0,1,Dizziness,Asthma,,1.0,40,,,,,,,5,2015
+290647,7771,35,female,CA,2015-06-13,80,Condition,Asthma,0,0,1,Vertigo,Asthma,,0.0,35,,,,,,,6,2015
+435607,41088,0,,,2015-07-15,80,Condition,Asthma,1,0,2,Elbow pain,Asthma,,11.0,34,,,,,,,7,2015
+650537,36899,0,,,2015-06-10,80,Condition,Asthma,0,0,1,Calm,Asthma,,0.0,34,,,,,,,6,2015
+683498,20625,31,female,GB,2015-06-10,80,Condition,Asthma,0,0,2,Lower Back Pain,Asthma,,0.0,31,,,,,,,6,2015
+695988,25888,33,female,HK,2015-10-19,80,Condition,Asthma,1,0,1,Fatigue and tiredness,Asthma,,1.0,33,,,,,,,10,2015
+710836,25888,33,female,HK,2015-10-29,80,Condition,Asthma,0,0,1,Diarrhea,Asthma,,0.0,33,,,,,,,10,2015
+1236309,30442,47,female,US,2016-01-08,80,Condition,Asthma,1,1,1,Blurred vision,Asthma,,1.0,47,,,,,,,1,2016
+1878496,15826,26,female,GB,2016-07-19,80,Condition,Asthma,1,0,1,acne,Asthma,,1.0,26,,,,,,,7,2016
+1955803,37157,47,female,US,2015-05-25,80,Condition,Asthma,1,0,1,Nausea,Asthma,,1.0,47,,,,,,,5,2015
+1976636,24572,31,female,US,2016-06-15,80,Condition,Asthma,0,1,1,Migraine,Asthma,,0.0,31,,,,,,,6,2016
+2009715,3175,23,female,US,2015-05-26,80,Condition,Asthma,0,0,1,Anhedonia,Asthma,,0.0,23,,,,,,,5,2015
+2061510,26533,22,female,US,2016-06-17,80,Condition,Asthma,0,0,1,Dysphagia,Asthma,,0.0,22,,,,,,,6,2016
+2067899,34145,28,female,US,2016-06-15,80,Condition,Asthma,1,0,1,Dislocation,Asthma,,1.0,28,,,,,,,6,2016
+2516335,20055,63,female,US,2016-06-15,80,Condition,Asthma,0,0,2,Widespread Pain,Asthma,,0.0,63,,,,,,,6,2016
+2522428,5119,25,female,US,2016-12-31,80,Condition,Asthma,0,0,1,Concentration,Asthma,,0.0,25,,,,,,,12,2016
+2607029,23880,47,female,NL,2016-06-16,80,Condition,Asthma,4,0,1,Fibrotic dysolasia hip,Asthma,,4.0,47,,,,,,,6,2016
+2636776,25725,35,female,GB,2016-06-18,80,Condition,Asthma,0,1,2,Pain,Asthma,,0.0,35,,,,,,,6,2016
+2638671,2104,33,female,GB,2016-04-12,80,Condition,Asthma,1,0,1,Breathless,Asthma,,1.0,33,,,,,,,4,2016
+2643108,15878,35,female,MY,2016-06-18,80,Condition,Asthma,1,0,0,Apathy,Asthma,,0.0,35,,,,,,,6,2016
+2646159,33727,39,male,AU,2016-07-21,80,Condition,Asthma,1,0,1,Tightness,Asthma,,1.0,39,,,,,,,7,2016
+2648230,36712,24,female,US,2016-06-26,80,Condition,Asthma,0,0,1,Sleep,Asthma,,0.0,24,,,,,,,6,2016
+2667210,28949,42,female,US,2016-06-16,80,Condition,Asthma,2,0,1,coughing,Asthma,,2.0,42,,,,,,,6,2016
+2679639,37852,24,female,CA,2016-06-16,80,Condition,Asthma,1,0,0,Low motivation,Asthma,,0.0,24,,,,,,,6,2016
+2680860,25250,42,female,US,2016-06-16,80,Condition,Asthma,1,0,0,Insomnia,Asthma,,0.0,42,,,,,,,6,2016
+2681196,1446,37,female,CA,2016-06-23,80,Condition,Asthma,0,0,1,Gas,Asthma,,0.0,37,,,,,,,6,2016
+2682808,1446,37,female,CA,2016-06-24,80,Condition,Asthma,0,0,1,Hair loss,Asthma,,0.0,37,,,,,,,6,2016
+2685511,1446,37,female,CA,2016-06-25,80,Condition,Asthma,0,0,1,puffy face,Asthma,,0.0,37,,,,,,,6,2016
+2688101,1446,37,female,CA,2016-06-26,80,Condition,Asthma,0,0,2,left knee pain,Asthma,,0.0,37,,,,,,,6,2016
+2708578,31301,41,female,US,2016-07-11,80,Condition,Asthma,1,1,1,skin rashes,Asthma,,1.0,41,,,,,,,7,2016
+2772499,335,27,female,IE,2016-06-14,80,Condition,Asthma,2,0,1,Stiffness,Asthma,,2.0,27,,,,,,,6,2016
+2779268,22496,42,female,GB,2016-06-16,80,Condition,Asthma,2,0,1,Mucus,Asthma,,2.0,42,,,,,,,6,2016
+2812847,9882,33,female,US,2016-06-24,379,Condition,Exercise-induced asthma,0,1,0,,Exercise-induced asthma,,0.0,33,,,,,,,6,2016
+2866406,1599,19,female,US,2016-06-24,80,Condition,Asthma,0,0,1,Muscle spasms,Asthma,,0.0,19,,,,,,,6,2016
+2897071,17204,35,female,GB,2016-07-26,80,Condition,Asthma,0,1,1,Morning Stiffness,Asthma,,0.0,35,,,,,,,7,2016
+2922867,10098,19,female,CA,2016-07-26,80,Condition,Asthma,3,0,0,Fainting,Asthma,,0.0,19,,,,,,,7,2016
+3014599,24163,30,female,US,2016-08-25,80,Condition,Asthma,0,0,1,Joint stiffness,Asthma,,0.0,30,,,,,,,8,2016
+3068544,39674,29,female,GB,2016-09-25,80,Condition,Asthma,3,0,1,Allergy,Asthma,,3.0,29,,,,,,,9,2016
+3069689,39674,29,female,GB,2016-09-26,80,Condition,Asthma,2,0,1,Memory loss,Asthma,,2.0,29,,,,,,,9,2016
+3070718,26362,0,female,US,2016-06-17,80,Condition,Asthma,0,0,0,Unmotivated,Asthma,,0.0,34,,,,,,,6,2016
+3072322,26362,0,female,US,2016-07-07,80,Condition,Asthma,0,0,0,Worry,Asthma,,0.0,34,,,,,,,7,2016
+3102350,13394,34,doesnt_say,US,2016-08-03,80,Condition,Asthma,1,0,1,swelling,Asthma,,1.0,34,,,,,,,8,2016
+3102889,13394,34,doesnt_say,US,2016-08-04,80,Condition,Asthma,1,0,1,Menstrual cramps,Asthma,,1.0,34,,,,,,,8,2016
+3103504,13394,34,doesnt_say,US,2016-08-05,80,Condition,Asthma,2,0,1,Spotting,Asthma,,2.0,34,,,,,,,8,2016
+3103942,13394,34,doesnt_say,US,2016-08-06,80,Condition,Asthma,1,0,2,Hip pain,Asthma,,11.0,34,,,,,,,8,2016
+3105742,13394,34,doesnt_say,US,2016-08-11,80,Condition,Asthma,1,0,1,Crying,Asthma,,1.0,34,,,,,,,8,2016
+3144488,2179,31,female,AU,2016-08-12,80,Condition,Asthma,1,0,1,Bloating,Asthma,,1.0,31,,,,,,,8,2016
+3149973,2179,31,female,AU,2016-08-14,80,Condition,Asthma,0,0,2,General Pain,Asthma,,0.0,31,,,,,,,8,2016
+3154876,12833,30,female,US,2017-01-13,379,Condition,Exercise-induced asthma,0,1,1,soreness,Exercise-induced asthma,,0.0,30,0.0002,74.0,23.0,46.0,1031.0,23.0,1,2017
+3161043,12833,30,female,US,2017-01-18,379,Condition,Exercise-induced asthma,0,1,2,Eye pain,Exercise-induced asthma,,0.0,30,0.0042,94.0,33.0,39.0,1014.0,6.0,1,2017
+3217733,38387,29,female,AU,2016-06-22,80,Condition,Asthma,1,0,1,Muscle ache,Asthma,,1.0,29,,,,,,,6,2016
+3287224,15977,40,female,US,2016-06-25,80,Condition,Asthma,3,0,1,itchy eyes,Asthma,,3.0,40,,,,,,,6,2016
+3287236,15977,40,female,US,2016-06-25,81,Condition,Asthma attack,3,0,1,itchy eyes,Asthma attack,,3.0,40,,,,,,,6,2016
+3288944,15977,40,female,US,2016-07-28,81,Condition,Asthma attack,0,0,1,Muscle spasms,Asthma attack,,0.0,40,,,,,,,7,2016
+3290840,15977,40,female,US,2016-11-09,81,Condition,Asthma attack,1,0,2,Muscle pain,Asthma attack,,11.0,40,,,,,,,11,2016
+3290879,15977,40,female,US,2016-11-09,80,Condition,Asthma,1,0,2,Muscle pain,Asthma,,11.0,40,,,,,,,11,2016
+3291179,35802,31,female,US,2017-03-06,80,Condition,Asthma,1,0,1,Poor Appetite,Asthma,,1.0,31,0.0218,88.0,18.0,33.0,997.0,15.0,3,2017
+3291748,35802,31,female,US,2017-03-11,80,Condition,Asthma,0,0,1,muscle shaking in upper body ,Asthma,,0.0,31,0.0005,81.0,1.0,16.0,1038.0,15.0,3,2017
+3396081,34384,44,female,CA,2017-07-03,80,Condition,Asthma,0,0,0,Dry skin,Asthma,,0.0,44,0.0082,76.0,56.0,75.0,1008.0,19.0,7,2017
+3429717,37938,28,doesnt_say,US,2016-07-04,80,Condition,Asthma,1,0,1,Tremor,Asthma,,1.0,28,,,,,,,7,2016
+3430996,37938,28,doesnt_say,US,2016-07-09,80,Condition,Asthma,1,0,1,Palpitations,Asthma,,1.0,28,,,,,,,7,2016
+3448542,8741,25,female,US,2016-07-03,80,Condition,Asthma,1,0,1,Itch,Asthma,,1.0,25,,,,,,,7,2016
+3467634,40448,39,male,AU,2016-07-17,80,Condition,Asthma,2,0,1,bowel movements,Asthma,,2.0,39,,,,,,,7,2016
+3468053,40448,39,male,AU,2016-07-18,80,Condition,Asthma,1,0,1,intrusive thoughts,Asthma,,1.0,39,,,,,,,7,2016
+3474272,63,0,doesnt_say,US,2016-08-02,80,Condition,Asthma,0,0,1,Cramps,Asthma,,0.0,34,,,,,,,8,2016
+3698572,17516,21,doesnt_say,US,2016-10-27,80,Condition,Asthma,0,0,2,Eye pain,Asthma,,0.0,21,,,,,,,10,2016
+3707549,29376,24,female,AU,2016-06-24,80,Condition,Asthma,1,0,1,Weakness,Asthma,,1.0,24,,,,,,,6,2016
+3715328,29376,24,female,AU,2016-06-29,80,Condition,Asthma,0,0,1,Trouble Sleeping,Asthma,,0.0,24,,,,,,,6,2016

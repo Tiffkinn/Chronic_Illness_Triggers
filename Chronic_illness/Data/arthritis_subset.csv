@@ -1,0 +1,149 @@
+,user_id,age,checkin_date,trackable_id,trackable_type,trackable_name,trackable_value,has_arthritis,pain_count,symptom,condition,weather,severity,Age,precipitation,humidity,min_temp,max_temp,pressure,temp_change,month,year
+5080,27923,42,2016-04-07,886,Condition,Rheumatoid arthritis,1,1,0,injures,Rheumatoid arthritis,,0.0,42,,,,,,,4,2016
+5137,20522,33,2015-12-08,728,Condition,Osteoarthritis,2,1,2,Back pain,Osteoarthritis,,22.0,33,,,,,,,12,2015
+9376,5843,46,2015-05-31,886,Condition,Rheumatoid arthritis,2,1,1,Fatigue,Rheumatoid arthritis,,2.0,46,,,,,,,5,2015
+9424,12547,0,2015-05-31,886,Condition,Rheumatoid arthritis,2,1,2,Stomach Pain,Rheumatoid arthritis,,22.0,34,,,,,,,5,2015
+10385,29642,34,2015-05-25,76,Condition,Arthritis,4,1,2,Pain,Arthritis,,44.0,34,,,,,,,5,2015
+16434,34578,37,2016-01-26,886,Condition,Rheumatoid arthritis,0,1,1,,Rheumatoid arthritis,,0.0,37,,,,,,,1,2016
+37207,27452,35,2015-10-19,76,Condition,Arthritis,2,1,1,swelling,Arthritis,,2.0,35,,,,,,,10,2015
+37911,27452,35,2015-06-28,76,Condition,Arthritis,3,1,1,Fatigue and tiredness,Arthritis,,3.0,35,,,,,,,6,2015
+42782,15274,45,2016-06-16,886,Condition,Rheumatoid arthritis,3,1,1,Numbness,Rheumatoid arthritis,,3.0,45,,,,,,,6,2016
+48704,6035,45,2018-01-16,728,Condition,Osteoarthritis,2,1,2,Abdominal pain,Osteoarthritis,,22.0,45,0.0056,58.0,26.0,48.0,1038.0,22.0,1,2018
+52059,6035,45,2018-01-17,728,Condition,Osteoarthritis,1,1,1,Skin sensitivity,Osteoarthritis,,1.0,45,0.0001,42.0,25.0,36.0,1039.0,11.0,1,2018
+55485,6035,45,2018-01-18,728,Condition,Osteoarthritis,1,1,1,erratic heartrate,Osteoarthritis,,1.0,45,0.0,41.0,33.0,45.0,1032.0,12.0,1,2018
+65169,6035,45,2018-01-26,728,Condition,Osteoarthritis,2,1,1,vaginal lumps,Osteoarthritis,,2.0,45,0.0037,89.0,52.0,63.0,1022.0,11.0,1,2018
+73694,37909,34,2015-05-25,76,Condition,Arthritis,1,1,2,Joint pain,Arthritis,,11.0,34,,,,,,,5,2015
+73728,20032,0,2015-07-16,886,Condition,Rheumatoid arthritis,2,1,0,Anhedonia,Rheumatoid arthritis,,0.0,34,,,,,,,7,2015
+73792,41909,31,2015-07-16,886,Condition,Rheumatoid arthritis,2,1,2,Pain,Rheumatoid arthritis,,22.0,31,,,,,,,7,2015
+74445,4750,0,2015-05-29,849,Condition,Psoriatic arthritis,2,1,1,Depression,Psoriatic arthritis,,2.0,34,,,,,,,5,2015
+80860,6078,25,2015-06-06,849,Condition,Psoriatic arthritis,0,1,2,Back pain,Psoriatic arthritis,,0.0,25,,,,,,,6,2015
+83132,4136,20,2019-07-24,886,Condition,Rheumatoid arthritis,3,1,1,Brain fog,Rheumatoid arthritis,,3.0,20,0.002,37.0,64.0,91.0,1012.0,27.0,7,2019
+94624,36272,21,2015-05-25,569,Condition,Juvenile rheumatoid arthritis,3,1,1,Brain fog,Juvenile rheumatoid arthritis,,3.0,21,,,,,,,5,2015
+99040,19030,25,2015-05-25,76,Condition,Arthritis,4,1,2,Knee pain,Arthritis,,44.0,25,,,,,,,5,2015
+138957,14369,90,2015-05-26,728,Condition,Osteoarthritis,4,1,2,Leg pain,Osteoarthritis,,44.0,90,,,,,,,5,2015
+139284,7021,0,2015-06-13,76,Condition,Arthritis,3,1,1,tingling,Arthritis,,3.0,34,,,,,,,6,2015
+144352,18102,34,2015-06-13,76,Condition,Arthritis,3,1,1,Unwanted Thoughts,Arthritis,,3.0,34,,,,,,,6,2015
+148929,33725,0,2015-05-31,886,Condition,Rheumatoid arthritis,2,1,1,Healthy sleep,Rheumatoid arthritis,,2.0,34,,,,,,,5,2015
+148986,32380,62,2015-05-31,886,Condition,Rheumatoid arthritis,2,1,1,soreness,Rheumatoid arthritis,,2.0,62,,,,,,,5,2015
+158018,22643,56,2015-05-26,76,Condition,Arthritis,0,1,0,,Arthritis,,0.0,56,,,,,,,5,2015
+163500,39,0,2015-05-26,76,Condition,Arthritis,1,1,1,Loss of appetite,Arthritis,,1.0,34,,,,,,,5,2015
+163934,39,0,2015-05-27,76,Condition,Arthritis,0,1,1,intrusive thoughts,Arthritis,,0.0,34,,,,,,,5,2015
+179426,10535,28,2016-05-19,76,Condition,Arthritis,3,1,1,Brain fog,Arthritis,,3.0,28,,,,,,,5,2016
+179480,10535,28,2016-05-19,728,Condition,Osteoarthritis,3,1,1,Brain fog,Osteoarthritis,,3.0,28,,,,,,,5,2016
+260571,35395,0,2015-05-29,76,Condition,Arthritis,3,1,1,Depression,Arthritis,,3.0,34,,,,,,,5,2015
+269953,31776,31,2015-05-31,886,Condition,Rheumatoid arthritis,2,1,2,Elbow pain,Rheumatoid arthritis,,22.0,31,,,,,,,5,2015
+271819,30224,58,2015-06-03,76,Condition,Arthritis,1,1,2,Chronic pain,Arthritis,,11.0,58,,,,,,,6,2015
+278737,19026,64,2015-05-26,728,Condition,Osteoarthritis,2,1,1,Diarrhea,Osteoarthritis,,2.0,64,,,,,,,5,2015
+399880,6348,0,2015-05-28,886,Condition,Rheumatoid arthritis,2,1,1,Dull,Rheumatoid arthritis,,2.0,34,,,,,,,5,2015
+400157,38136,0,2015-05-31,76,Condition,Arthritis,2,1,2,Back pain,Arthritis,,22.0,34,,,,,,,5,2015
+613761,27797,33,2015-05-26,728,Condition,Osteoarthritis,3,1,2,Chronic pain,Osteoarthritis,,33.0,33,,,,,,,5,2015
+614122,27797,33,2015-06-06,728,Condition,Osteoarthritis,1,1,1,Heartburn,Osteoarthritis,,1.0,33,,,,,,,6,2015
+685278,9861,27,2016-02-26,886,Condition,Rheumatoid arthritis,3,1,2,Back pain,Rheumatoid arthritis,,33.0,27,,,,,,,2,2016
+695867,19095,42,2015-08-18,76,Condition,Arthritis,3,1,1,Headache,Arthritis,,3.0,42,,,,,,,8,2015
+716462,41279,31,2015-06-16,886,Condition,Rheumatoid arthritis,2,1,1,Dizziness,Rheumatoid arthritis,,2.0,31,,,,,,,6,2015
+716945,2114,52,2015-06-18,886,Condition,Rheumatoid arthritis,3,1,1,Fever,Rheumatoid arthritis,,3.0,52,,,,,,,6,2015
+800958,30506,34,2015-08-23,886,Condition,Rheumatoid arthritis,2,1,2,Joint pain,Rheumatoid arthritis,,22.0,34,,,,,,,8,2015
+820021,28990,36,2015-09-15,76,Condition,Arthritis,1,1,1,Dry eye,Arthritis,,1.0,36,,,,,,,9,2015
+912056,26984,32,2015-11-03,849,Condition,Psoriatic arthritis,3,1,1,Memory loss,Psoriatic arthritis,,3.0,32,,,,,,,11,2015
+975424,29257,31,2016-04-22,886,Condition,Rheumatoid arthritis,2,1,2,Chronic pain,Rheumatoid arthritis,,22.0,31,,,,,,,4,2016
+1236366,30442,47,2016-01-08,569,Condition,Juvenile rheumatoid arthritis,4,1,1,Blurred vision,Juvenile rheumatoid arthritis,,4.0,47,,,,,,,1,2016
+1243920,40010,33,2015-10-26,728,Condition,Osteoarthritis,1,1,2,Stomach Pain,Osteoarthritis,,11.0,33,,,,,,,10,2015
+1291014,883,59,2015-10-26,728,Condition,Osteoarthritis,1,1,1,Fatigue,Osteoarthritis,,1.0,59,,,,,,,10,2015
+1379695,34004,32,2016-06-15,76,Condition,Arthritis,2,1,2,Neck pain,Arthritis,,22.0,32,,,,,,,6,2016
+1495746,32211,0,2016-05-25,886,Condition,Rheumatoid arthritis,4,1,2,Hip pain,Rheumatoid arthritis,,44.0,34,,,,,,,5,2016
+1529817,4757,23,2016-02-24,886,Condition,Rheumatoid arthritis,3,1,2,Abdominal pain,Rheumatoid arthritis,,33.0,23,,,,,,,2,2016
+1770982,36092,41,2015-05-25,76,Condition,Arthritis,1,1,2,Abdominal pain,Arthritis,,11.0,41,,,,,,,5,2015
+1877538,11249,58,2015-05-26,76,Condition,Arthritis,2,1,2,Hip pain,Arthritis,,22.0,58,,,,,,,5,2015
+1884197,26480,37,2016-03-28,886,Condition,Rheumatoid arthritis,2,1,1,Headache,Rheumatoid arthritis,,2.0,37,,,,,,,3,2016
+1884755,4904,48,2016-06-24,728,Condition,Osteoarthritis,2,1,1,,Osteoarthritis,,2.0,48,,,,,,,6,2016
+1976738,24572,31,2016-06-15,886,Condition,Rheumatoid arthritis,2,1,1,Migraine,Rheumatoid arthritis,,2.0,31,,,,,,,6,2016
+1981367,41751,59,2016-06-16,76,Condition,Arthritis,2,1,1,Weight gain,Arthritis,,2.0,59,,,,,,,6,2016
+1981722,25320,56,2015-06-16,76,Condition,Arthritis,1,1,1,Anxiety,Arthritis,,1.0,56,,,,,,,6,2015
+1982496,9673,45,2015-10-22,76,Condition,Arthritis,3,1,2,Stomach Pain,Arthritis,,33.0,45,,,,,,,10,2015
+1988352,9673,45,2016-04-07,76,Condition,Arthritis,3,1,1,Fatigue,Arthritis,,3.0,45,,,,,,,4,2016
+2045918,11876,49,2016-06-16,76,Condition,Arthritis,1,1,2,Foot pain,Arthritis,,11.0,49,,,,,,,6,2016
+2047112,661,42,2016-06-27,76,Condition,Arthritis,1,1,1,Sensivity-Skin,Arthritis,,1.0,42,,,,,,,6,2016
+2049050,20036,16,2019-05-09,1552,Condition,Inflammatory Arthritis,3,1,1,Dizziness upon Standing,Inflammatory Arthritis,,3.0,16,,,,,,,5,2019
+2060237,20036,16,2019-06-15,1552,Condition,Inflammatory Arthritis,4,1,2,Painful breathing,Inflammatory Arthritis,,44.0,16,,,,,,,6,2019
+2064443,11162,25,2016-04-25,849,Condition,Psoriatic arthritis,2,1,1,Missed menstrual period,Psoriatic arthritis,,2.0,25,,,,,,,4,2016
+2221175,40911,58,2016-04-23,886,Condition,Rheumatoid arthritis,2,1,1,Fibromyalgia,Rheumatoid arthritis,,2.0,58,,,,,,,4,2016
+2221224,10825,29,2016-06-16,76,Condition,Arthritis,4,1,1,Weakness,Arthritis,,4.0,29,,,,,,,6,2016
+2223709,28679,0,2017-05-07,76,Condition,Arthritis,2,1,1,numbness in feet,Arthritis,,2.0,34,0.0017,61.0,41.0,68.0,1009.0,27.0,5,2017
+2226621,16137,76,2016-03-30,849,Condition,Psoriatic arthritis,1,1,1,,Psoriatic arthritis,,1.0,76,,,,,,,3,2016
+2315824,42218,32,2016-06-16,1510,Condition,Enteropathic Arthritis,4,1,1,Depression,Enteropathic Arthritis,,4.0,32,,,,,,,6,2016
+2503555,34714,29,2017-10-07,886,Condition,Rheumatoid arthritis,3,1,1,burning hands,Rheumatoid arthritis,,3.0,29,0.0001,80.0,58.0,76.0,1020.0,18.0,10,2017
+2507132,10523,46,2015-08-09,849,Condition,Psoriatic arthritis,1,1,1,Anxiety,Psoriatic arthritis,,1.0,46,,,,,,,8,2015
+2507267,10523,46,2015-05-30,849,Condition,Psoriatic arthritis,2,1,2,Joint pain,Psoriatic arthritis,,22.0,46,,,,,,,5,2015
+2524149,41914,31,2016-06-17,76,Condition,Arthritis,2,1,1,Joint stiffness,Arthritis,,2.0,31,,,,,,,6,2016
+2527234,4534,35,2016-06-18,76,Condition,Arthritis,3,1,1,Limping,Arthritis,,3.0,35,,,,,,,6,2016
+2565930,24605,21,2017-06-02,569,Condition,Juvenile rheumatoid arthritis,0,1,2,Joint pain,Juvenile rheumatoid arthritis,,0.0,21,,,,,,,6,2017
+2570786,38074,41,2017-01-04,849,Condition,Psoriatic arthritis,3,1,2,Rib pain,Psoriatic arthritis,,33.0,41,,,,,,,1,2017
+2605626,42223,43,2016-06-15,849,Condition,Psoriatic arthritis,2,1,2,Neck pain,Psoriatic arthritis,,22.0,43,,,,,,,6,2016
+2605667,42223,43,2017-02-21,849,Condition,Psoriatic arthritis,2,1,2,Elbow pain,Psoriatic arthritis,,22.0,43,0.0,44.0,53.0,82.0,1016.0,29.0,2,2017
+2632247,32984,31,2016-12-18,76,Condition,Arthritis,1,1,1,Lack of energy,Arthritis,,1.0,31,,,,,,,12,2016
+2634452,29735,3,2016-11-25,886,Condition,Rheumatoid arthritis,3,1,1,Mental fatigue,Rheumatoid arthritis,,3.0,3,,,,,,,11,2016
+2635953,272,30,2016-06-15,849,Condition,Psoriatic arthritis,1,1,2,Stomach Pain,Psoriatic arthritis,,11.0,30,,,,,,,6,2016
+2645808,11068,59,2016-07-23,76,Condition,Arthritis,2,1,0,Peripheral neuropathy,Arthritis,,0.0,59,,,,,,,7,2016
+2651808,11850,41,2016-06-24,76,Condition,Arthritis,4,1,2,sinus pain,Arthritis,,44.0,41,,,,,,,6,2016
+2661481,28203,18,2016-06-22,569,Condition,Juvenile rheumatoid arthritis,3,1,1,Joint stiffness,Juvenile rheumatoid arthritis,,3.0,18,,,,,,,6,2016
+2672648,7655,21,2016-06-18,569,Condition,Juvenile rheumatoid arthritis,2,1,1,Constipation,Juvenile rheumatoid arthritis,,2.0,21,,,,,,,6,2016
+2676714,20443,26,2016-06-30,886,Condition,Rheumatoid arthritis,1,1,2,Right Hip Pain,Rheumatoid arthritis,,11.0,26,,,,,,,6,2016
+2704067,7259,44,2016-06-21,76,Condition,Arthritis,3,1,1,Dizziness,Arthritis,,3.0,44,,,,,,,6,2016
+2708302,31301,41,2016-07-11,728,Condition,Osteoarthritis,4,1,1,skin rashes,Osteoarthritis,,4.0,41,,,,,,,7,2016
+2727244,28575,47,2019-09-29,849,Condition,Psoriatic arthritis,4,1,1,Feeling hot,Psoriatic arthritis,,4.0,47,0.001,71.0,48.0,73.0,1002.0,25.0,9,2019
+2731822,36177,39,2016-06-21,849,Condition,Psoriatic arthritis,1,1,2,Chronic pain,Psoriatic arthritis,,11.0,39,,,,,,,6,2016
+2732627,9121,28,2016-06-25,849,Condition,Psoriatic arthritis,2,1,1,mania,Psoriatic arthritis,,2.0,28,,,,,,,6,2016
+2778335,31135,45,2016-06-16,1552,Condition,Inflammatory Arthritis,1,1,2,Muscle pain,Inflammatory Arthritis,,11.0,45,,,,,,,6,2016
+2782326,23663,50,2017-04-25,886,Condition,Rheumatoid arthritis,1,1,1,Ringing in ears,Rheumatoid arthritis,,1.0,50,0.0,65.0,60.0,92.0,999.0,32.0,4,2017
+2793164,18366,21,2016-06-21,728,Condition,Osteoarthritis,3,1,1,Muscle spasms,Osteoarthritis,,3.0,21,,,,,,,6,2016
+2793958,28126,26,2016-06-16,886,Condition,Rheumatoid arthritis,2,1,1,Sleep Length,Rheumatoid arthritis,,2.0,26,,,,,,,6,2016
+2804448,28839,0,2016-06-17,76,Condition,Arthritis,3,1,1,Agitation,Arthritis,,3.0,34,,,,,,,6,2016
+2804982,7947,28,2016-06-22,849,Condition,Psoriatic arthritis,4,1,1,dissociation,Psoriatic arthritis,,4.0,28,,,,,,,6,2016
+2836149,8280,41,2016-08-25,728,Condition,Osteoarthritis,2,1,1,Lack of energy,Osteoarthritis,,2.0,41,,,,,,,8,2016
+2841670,11311,46,2017-10-26,728,Condition,Osteoarthritis,2,1,0,Joint Instability,Osteoarthritis,,0.0,46,0.0101,88.0,62.0,66.0,1014.0,4.0,10,2017
+2842734,40773,53,2016-06-23,886,Condition,Rheumatoid arthritis,3,1,1,Joint swelling,Rheumatoid arthritis,,3.0,53,,,,,,,6,2016
+2845252,40773,53,2016-06-24,886,Condition,Rheumatoid arthritis,2,1,1,Frustrating Parenting,Rheumatoid arthritis,,2.0,53,,,,,,,6,2016
+2854912,40773,53,2016-06-27,886,Condition,Rheumatoid arthritis,2,1,1,Fatigue flare,Rheumatoid arthritis,,2.0,53,,,,,,,6,2016
+2864168,7308,23,2016-06-22,1510,Condition,Enteropathic Arthritis,1,1,1,Rectal bleeding,Enteropathic Arthritis,,1.0,23,,,,,,,6,2016
+2896497,36199,62,2016-06-24,76,Condition,Arthritis,3,1,0,Diarrhea,Arthritis,,0.0,62,,,,,,,6,2016
+2897063,17204,35,2016-07-26,886,Condition,Rheumatoid arthritis,2,1,1,Morning Stiffness,Rheumatoid arthritis,,2.0,35,,,,,,,7,2016
+2900554,38632,23,2016-06-29,886,Condition,Rheumatoid arthritis,2,1,1,swelling,Rheumatoid arthritis,,2.0,23,,,,,,,6,2016
+2900862,16733,21,2016-06-27,886,Condition,Rheumatoid arthritis,0,1,1,Stress,Rheumatoid arthritis,,0.0,21,,,,,,,6,2016
+2902014,16733,21,2016-06-28,886,Condition,Rheumatoid arthritis,0,1,1,Nausea,Rheumatoid arthritis,,0.0,21,,,,,,,6,2016
+2927436,38042,40,2016-07-31,886,Condition,Rheumatoid arthritis,2,1,2,Low back pain,Rheumatoid arthritis,,22.0,40,,,,,,,7,2016
+3015417,17006,24,2017-02-08,886,Condition,Rheumatoid arthritis,3,1,1,Rash,Rheumatoid arthritis,,3.0,24,0.0001,75.0,70.0,89.0,1010.0,19.0,2,2017
+3056944,28405,47,2016-06-16,76,Condition,Arthritis,2,1,1,Insomnia,Arthritis,,2.0,47,,,,,,,6,2016
+3066328,20820,56,2016-11-02,728,Condition,Osteoarthritis,2,1,1,sciatica,Osteoarthritis,,2.0,56,,,,,,,11,2016
+3067653,460,50,2016-09-25,569,Condition,Juvenile rheumatoid arthritis,4,1,2,Pain,Juvenile rheumatoid arthritis,,44.0,50,,,,,,,9,2016
+3139959,22233,36,2016-06-29,1552,Condition,Inflammatory Arthritis,1,1,1,Headache,Inflammatory Arthritis,,1.0,36,,,,,,,6,2016
+3140141,22233,36,2016-06-30,1552,Condition,Inflammatory Arthritis,2,1,1,swelling,Inflammatory Arthritis,,2.0,36,,,,,,,6,2016
+3141222,22233,36,2016-07-09,1552,Condition,Inflammatory Arthritis,2,1,1,Rash,Inflammatory Arthritis,,2.0,36,,,,,,,7,2016
+3154496,14260,44,2016-09-04,76,Condition,Arthritis,2,1,0,Stiffness,Arthritis,,0.0,44,,,,,,,9,2016
+3161101,12833,30,2017-01-18,886,Condition,Rheumatoid arthritis,3,1,2,Eye pain,Rheumatoid arthritis,,33.0,30,0.0042,94.0,33.0,39.0,1014.0,6.0,1,2017
+3187012,1874,26,2016-06-24,569,Condition,Juvenile rheumatoid arthritis,3,1,1,Unrefreshing Sleep,Juvenile rheumatoid arthritis,,3.0,26,,,,,,,6,2016
+3212881,8439,44,2017-04-26,849,Condition,Psoriatic arthritis,2,1,2,Head Pain,Psoriatic arthritis,,22.0,44,,,,,,,4,2017
+3268822,12251,35,2015-05-27,76,Condition,Arthritis,0,1,1,Suicidal ideation,Arthritis,,0.0,35,,,,,,,5,2015
+3279673,33531,0,2017-09-12,569,Condition,Juvenile rheumatoid arthritis,1,1,2,Lower Back Pain,Juvenile rheumatoid arthritis,,11.0,34,,,,,,,9,2017
+3279808,33531,0,2017-09-13,569,Condition,Juvenile rheumatoid arthritis,1,1,2,left hip pain,Juvenile rheumatoid arthritis,,11.0,34,0.0005,73.0,56.0,85.0,1007.0,29.0,9,2017
+3287126,16276,21,2016-08-13,569,Condition,Juvenile rheumatoid arthritis,1,1,0,Poor Appetite,Juvenile rheumatoid arthritis,,0.0,21,,,,,,,8,2016
+3287131,16276,21,2016-08-13,76,Condition,Arthritis,1,1,0,Poor Appetite,Arthritis,,0.0,21,,,,,,,8,2016
+3311442,35474,36,2016-07-13,886,Condition,Rheumatoid arthritis,1,1,2,Foot pain,Rheumatoid arthritis,,11.0,36,,,,,,,7,2016
+3311699,35474,36,2016-07-16,886,Condition,Rheumatoid arthritis,3,1,2,Knee pain,Rheumatoid arthritis,,33.0,36,,,,,,,7,2016
+3311877,26807,29,2016-07-24,886,Condition,Rheumatoid arthritis,3,1,1,Anxiety,Rheumatoid arthritis,,3.0,29,,,,,,,7,2016
+3315077,33032,22,2019-04-07,849,Condition,Psoriatic arthritis,0,1,2,Muscle pain,Psoriatic arthritis,,0.0,22,,,,,,,4,2019
+3324983,6013,47,2016-06-24,728,Condition,Osteoarthritis,2,1,1,Fatigue and tiredness,Osteoarthritis,,2.0,47,,,,,,,6,2016
+3344978,16007,25,2016-06-15,867,Condition,Reactive arthritis,2,1,1,Brain fog,Reactive arthritis,,2.0,25,,,,,,,6,2016
+3349007,20854,37,2017-05-11,76,Condition,Arthritis,3,1,1,Irritability,Arthritis,,3.0,37,0.0,79.0,54.0,68.0,1019.0,14.0,5,2017
+3395151,11428,31,2016-08-01,886,Condition,Rheumatoid arthritis,2,1,1,Runny nose,Rheumatoid arthritis,,2.0,31,,,,,,,8,2016
+3395270,39572,21,2016-07-25,886,Condition,Rheumatoid arthritis,4,1,1,Stiffness,Rheumatoid arthritis,,4.0,21,,,,,,,7,2016
+3417502,19051,21,2019-03-22,76,Condition,Arthritis,2,1,2,Muscle pain,Arthritis,,22.0,21,,,,,,,3,2019
+3433755,12054,30,2017-04-27,886,Condition,Rheumatoid arthritis,2,1,1,Diarrhea,Rheumatoid arthritis,,2.0,30,,,,,,,4,2017
+3442942,33819,25,2016-07-02,728,Condition,Osteoarthritis,1,1,1,Joint cracking,Osteoarthritis,,1.0,25,,,,,,,7,2016
+3460444,9557,60,2016-10-19,886,Condition,Rheumatoid arthritis,1,1,0,Sugar cravings,Rheumatoid arthritis,,0.0,60,,,,,,,10,2016
+3468396,33511,49,2016-07-31,886,Condition,Rheumatoid arthritis,0,1,2,Muscle pain,Rheumatoid arthritis,,0.0,49,,,,,,,7,2016
+3468489,3877,33,2016-06-15,886,Condition,Rheumatoid arthritis,2,1,1,hand tremors,Rheumatoid arthritis,,2.0,33,,,,,,,6,2016
+3469462,3877,33,2016-06-24,886,Condition,Rheumatoid arthritis,3,1,1,overdid it,Rheumatoid arthritis,,3.0,33,,,,,,,6,2016
+3660309,8432,25,2017-02-11,886,Condition,Rheumatoid arthritis,0,1,1,Skin sensitivity,Rheumatoid arthritis,,0.0,25,,,,,,,2,2017
+3677578,24043,29,2016-06-19,849,Condition,Psoriatic arthritis,1,1,1,Joint swelling,Psoriatic arthritis,,1.0,29,,,,,,,6,2016
+3700598,18476,31,2016-07-04,569,Condition,Juvenile rheumatoid arthritis,3,1,1,,Juvenile rheumatoid arthritis,,3.0,31,,,,,,,7,2016
+3702974,4625,44,2016-06-19,728,Condition,Osteoarthritis,4,1,1,Forgetfulness,Osteoarthritis,,4.0,44,,,,,,,6,2016
