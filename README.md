@@ -6,7 +6,7 @@ so geographical location and weather condition factors can be examined in additi
 
 **See Tableau Story Here:** https://public.tableau.com/shared/Y3Q355QZX?:display_count=n&:origin=viz_share_link
 
-**Possible Questions**
+**Possible Questions:**<br>
 • Are there subsets of condition types and effects that are differently affected by weather and time?
 
 • Is it possible to reliably predict flare triggers for a given user or condition?
