@@ -2,6 +2,7 @@
 
 ## Project Description: 
 This project explores how weather impacts user-reported symptoms from the Flaredown app. Weather conditions were recorded automatically at the time of trigger reporting, allowing geographical location and weather condition factors to be examined along with self-reported triggers.
+[Project Brief](https://github.com/Tiffkinn/Chronic_Illness_Triggers/blob/74150ef3f5a6cde97358331c20173e0cc76086f0/weather-health-brief.pdf)
 ![image](https://github.com/user-attachments/assets/a09e466f-2a51-4469-ba9d-58f02abd357e)
 
 ## Data:
